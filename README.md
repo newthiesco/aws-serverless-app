@@ -115,13 +115,13 @@ Create a CloudFront distribution:
 
 📚 Useful Resources
 
-    📘 S3 Static Website Hosting
+## 📚 Useful Resources
 
-    📘 API Gateway + Lambda Integration
-
-    📘 Amazon CloudFront Docs
-
-    📘 DynamoDB Best Practices
+- 📘 [S3 Static Website Hosting](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
+- 📘 [API Gateway + Lambda Integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-getting-started-with-rest-apis.html)
+- 📘 [Amazon CloudFront Documentation](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+- 📘 [DynamoDB Best Practices](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
+- 📘 [Deploy Serverless with AWS CLI](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-awscli.html)
 
 📌 TODO
 
