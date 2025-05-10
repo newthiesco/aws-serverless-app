@@ -1,4 +1,4 @@
-# 🌐 AWS Serverless Application Deployment
+# 🌐 AWS Serverless Web Application Deployment
 
 This project demonstrates how to build and deploy a modern serverless web application on AWS. It leverages key AWS services to serve static content, handle API requests, and persist data securely — all without managing any servers.
 
