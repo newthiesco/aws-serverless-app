@@ -113,16 +113,6 @@ Create a CloudFront distribution:
 
     🔒 Store secrets securely using AWS Secrets Manager or environment variables
 
-📚 Useful Resources
-
-## 📚 Useful Resources
-
-## 📚 Useful Resources
-
-## 📚 Useful Resources
-
-## 📚 Useful Resources
-
 📌 TODO
 
 Add CI/CD pipeline with GitHub Actions or AWS CodePipeline
