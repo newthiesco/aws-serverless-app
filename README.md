@@ -44,7 +44,7 @@ This project demonstrates how to build and deploy a modern serverless web applic
 │ ├── handler.py
 │ └── requirements.txt
 ├── templates/
-│ └── cloudformation.yml
+│
 └── README.md
 
 
