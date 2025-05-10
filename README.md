@@ -149,5 +149,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you’d like a version with GitHub Actions CI/CD setup or a sample CloudFormation template added too!
-
