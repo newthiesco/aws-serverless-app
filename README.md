@@ -123,12 +123,6 @@ Create a CloudFront distribution:
 
 ## 📚 Useful Resources
 
-- 📘 [S3 Static Website Hosting](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
-- 📘 [API Gateway + Lambda Integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-getting-started-with-rest-apis.html)
-- 📘 [Amazon CloudFront Docs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-- 📘 [DynamoDB Best Practices](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
-
-
 📌 TODO
 
 Add CI/CD pipeline with GitHub Actions or AWS CodePipeline
@@ -149,4 +143,4 @@ This project is licensed under the MIT License.
 
 ---
 
-[Credit to YouTube Video](https://www.youtube.com/watch?v=pK52mfm69i0)
+Credit to this YouTube Video https://www.youtube.com/watch?v=pK52mfm69i0
